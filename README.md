@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm a passionate **Web and Data Engineer** with ov
    - **CodeWave Solutions** *(Python Full-Stack Developer)*  
 
 - 🌐 **Technical Skills**:
-   - **Languages**: Python, JavaScript, SQL, R, Scala
-   - **Web Development**: Django, Flask, React, Next.js
+   - **Languages**: Python, JavaScript, PHP, SQL, R, Scala
+   - **Web Development**: WordPress,Shopify, Django, Flask, React, Next.js
    - **Data Engineering**: Apache Spark, ETL Pipelines, Cloud Solutions (AWS/Azure)
    - **DevOps**: CI/CD, Docker, Git
    - **AI & ML**: LLaMA2, LlamaIndex, PyTorch, NLP Pipelines
