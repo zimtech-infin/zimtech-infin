@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kelvin!
 
-Welcome to my GitHub profile! I'm a passionate **Web and Data Engineer** with over **7 years of experience** in software development, data engineering, and analytics. I specialize in designing robust, scalable systems and building intelligent solutions that drive innovation and deliver measurable value.
+Welcome to my GitHub profile! I'm a passionate **Web and Data Engineer** with over ** 5 years of experience** in software development, data engineering, and analytics. I specialize in designing robust, scalable systems and building intelligent solutions that drive innovation and deliver measurable value.
 
 ---
 
